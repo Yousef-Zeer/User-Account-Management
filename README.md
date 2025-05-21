@@ -34,12 +34,12 @@ $ sudo ./user_manager.sh
 ```
 
 ## Output
-  - users.csv: Stores name, username, and generated password.
+  - users.csv: Stores name, username, and generated random password.
   - Temporary CSV used during runtime is deleted after execution .
 
 
 
-
+![Image](https://github.com/user-attachments/assets/93b2bfa3-5dbf-42fc-8a06-251b4d341ac6)
 
 
 
